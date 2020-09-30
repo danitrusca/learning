@@ -1,0 +1,9 @@
+body#p1 {
+  background-image: url("/media/Simon.png");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+ul {
+  list-style-type: square;
+}
